@@ -12,7 +12,7 @@ Toujours en train d'apprendre et d'explorer de nouvelles technologies, je suis p
 
 Je crois fermement en l'importance de rester à jour avec les dernières technologies et tendances de l'industrie, et je suis toujours à la recherche de nouvelles opportunités pour apprendre et grandir en tant que développeur.
 
-## Connectons-nous :
+## Contactez-moi :
 - 📧 Vous pouvez me joindre à **sofianbelbacha@gmail.com**.
 - 💼 Connectons-nous sur **LinkedIn : https://www.linkedin.com/in/sofian-belbacha/**
 
