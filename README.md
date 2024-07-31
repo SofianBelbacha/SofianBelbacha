@@ -1,19 +1,16 @@
-# Bonjour et bienvenue sur mon profil GitHub ! 
+# Hello and welcome to my GitHub profile!
 
-Je suis **Sofian Belbacha**, un passionné de développement et de technologies. 
+I am **Sofian Belbacha**, a development and technology enthusiast.
 
-## À propos de moi :
+## About Me:
 
-Je suis une personne extrêmement motivée, déterminée à utiliser mes compétences et mes connaissances pour répondre de manière optimale à vos besoins en matière de création de sites web et applications bureaux.
-Toujours en train d'apprendre et d'explorer de nouvelles technologies, je suis particulièrement passionné(e) par l'innovation et l'amélioration continue de mes compétences. Actuellement, je me concentre sur:
-- **Docker** et pour la gestion et l'orchestration de conteneurs, facilitant le déploiement et la scalabilité des applications.
-- **SEO (Search Engine Optimization)** pour améliorer la visibilité et la performance des sites web sur les moteurs de recherche.
-- **Symfony** pour développer des applications web robustes et évolutives en utilisant ce puissant framework PHP.
+I am a highly motivated individual, determined to use my skills and knowledge to optimally meet your needs in creating websites and desktop applications. Constantly learning and exploring new technologies, I have a strong passion for innovation and the continuous improvement of my skills. Currently, I am focusing on:
+- **Docker** for container management and orchestration, facilitating application deployment and scalability.
+- **SEO (Search Engine Optimization)** to enhance the visibility and performance of websites on search engines.
+- **Symfony** to develop robust and scalable web applications using this powerful PHP framework.
 
-Je crois fermement en l'importance de rester à jour avec les dernières technologies et tendances de l'industrie, et je suis toujours à la recherche de nouvelles opportunités pour apprendre et grandir en tant que développeur.
+I firmly believe in the importance of staying up-to-date with the latest technologies and industry trends, and I am always looking for new opportunities to learn and grow as a developer.
 
-## Contactez-moi :
-- 📧 Vous pouvez me joindre à **sofianbelbacha@gmail.com**.
-- 💼 Connectons-nous sur **LinkedIn : https://www.linkedin.com/in/sofian-belbacha/**
-
-
+## Contact Me:
+- 📧 You can reach me at **sofianbelbacha@gmail.com**.
+- 💼 Let's connect on **LinkedIn: https://www.linkedin.com/in/sofian-belbacha/**
