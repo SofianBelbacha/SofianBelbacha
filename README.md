@@ -10,14 +10,14 @@ As a highly motivated and detail-oriented developer, I strive to create efficien
 ## 🔧 Technologies & Interests
 - **Symfony** – Crafting powerful and scalable web applications with this robust PHP framework.
 - **Docker**  – Streamlining development, container management, and deployment processes.
-  **SEO Optimization** – Enhancing website visibility and performance on search engines.
+- **SEO Optimization** – Enhancing website visibility and performance on search engines.
 
 ## 🎯 Currently Exploring
 I am expanding my knowledge in cloud computing, DevOps practices, and performance optimization to build even more efficient applications.
 
-📫 Let's Connect
-💌 Email: sofianbelbacha@gmail.com
-💼 LinkedIn: [Sofian Belbacha](https://www.linkedin.com/in/sofian-belbacha/)
+## 📫 Let's Connect
+- 💌 Email: **sofianbelbacha@gmail.com**
+- 💼 LinkedIn: **[Sofian Belbacha](https://www.linkedin.com/in/sofian-belbacha/)**
 
 Feel free to check out my repositories and let's collaborate on exciting projects! 🚀
 
