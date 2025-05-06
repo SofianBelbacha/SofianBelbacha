@@ -104,6 +104,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/sofianbelbacha/sofianbelbacha/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/sofianbelbacha/SofianBelbacha/blob/output/snake.svg" alt="Snake animation" />
 
 ###
