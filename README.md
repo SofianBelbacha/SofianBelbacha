@@ -55,9 +55,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofianbelbacha&theme=gruvbox" alt="sofianbelbacha" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofianbelbacha&show_icons=true&locale=en&layout=compact" alt="sofianbelbacha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofianbelbacha&show_icons=true&locale=en&layout=compact&theme=dark" alt="sofianbelbacha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofianbelbacha&show_icons=true&locale=en" alt="sofianbelbacha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofianbelbacha&show_icons=true&locale=en&theme=dark" alt="sofianbelbacha" /></p>
 
 ###
 
@@ -68,5 +68,11 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
