@@ -1,26 +1,28 @@
-# 👋 Welcome to My GitHub Profile!
-I am Sofian Belbacha, a passionate developer and technology enthusiast.
+<h1 align="center">Hi 👋, I'm Sofian Belbacha</h1>
+<h3 align="center">a passionate full stack developer and DevOps enthusiast.</h3>
 
-## 🚀 About Me
-As a highly motivated and detail-oriented developer, I strive to create efficient, scalable, and innovative solutions. My expertise lies in building web applications and desktop applications, with a focus on clean code, performance, and user experience.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sofianbelbacha&label=Profile%20views&color=0e75b6&style=flat" alt="sofianbelbacha" /> </p>
 
-🔹 I am constantly learning and improving my skills to stay up-to-date with the latest trends and technologies.
-🔹 I believe in collaboration, problem-solving, and continuous growth.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofianbelbacha" alt="sofianbelbacha" /></a> </p>
 
-## 🔧 Technologies & Interests
-- **Symfony** – Crafting powerful and scalable web applications with this robust PHP framework.
-- **Docker**  – Streamlining development, container management, and deployment processes.
-- **SEO Optimization** – Enhancing website visibility and performance on search engines.
+- 🔭 I’m currently working on [my Portfolio app](https://sofianbelbacha.vercel.app)
 
-## 🎯 Currently Exploring
-I am expanding my knowledge in cloud computing, DevOps practices, and performance optimization to build even more efficient applications.
+- 🌱 I’m currently learning ****DevOps**, with the following roadmap: **Q2 2025 – En cours** - 🚢 Découverte de Docker & containerisation - 🔁 Introduction à la CI/CD avec GitHub Actions **Q3 2025 – Prévu** - ☸️ Déploiement avec Kubernetes - 🏗️ Infrastructure as Code (Terraform / Pulumi) **Q4 2025 – Prévu** - ⚙️ Apprentissage de Rust pour le backend système - 📊 Observabilité avec Prometheus & Grafana**
 
-## 📫 Let's Connect
-- 💌 Email: **sofianbelbacha@gmail.com**
-- 💼 LinkedIn: **[Sofian Belbacha](https://www.linkedin.com/in/sofian-belbacha/)**
+- 👨‍💻 All of my projects are available at [[https://sofianbelbacha.vercel.app](https://sofianbelbacha.vercel.app)]([https://sofianbelbacha.vercel.app](https://sofianbelbacha.vercel.app))
 
-Feel free to check out my repositories and let's collaborate on exciting projects! 🚀
+- 💬 Ask me about **react, Next.Js, ASP.NET Core**
 
-![Profile Views](https://komarev.com/ghpvc/?username=SofianBelbacha&color=green)
+- 📫 How to reach me **sofianbelbacha@gmail.com**
 
+- 📄 Know about my experiences [[My Portfolio - Resume](https://sofianbelbacha.vercel.app)]([My Portfolio - Resume](https://sofianbelbacha.vercel.app))
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sofian-belbacha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sofian-belbacha/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofianbelbacha&show_icons=true&locale=en" alt="sofianbelbacha" /></p>
