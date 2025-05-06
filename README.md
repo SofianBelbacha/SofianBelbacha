@@ -23,16 +23,16 @@
 
 <table>
   <tr>
-    <td><strong>👨‍💻 My Work</strong></td>
-    <td><strong>💬 What I Do</strong></td>
-    <td><strong>📫 Contact Me</strong></td>
-    <td><strong>📄 My Resume</strong></td>
+    <td><strong>👨‍💻 Projects</strong></td>
+    <td><strong>💬 Tech Stack</strong></td>
+    <td><strong>📫 Contact</strong></td>
+    <td><strong>📄 Resume</strong></td>
   </tr>
   <tr>
-    <td><a href="https://sofianbelbacha.vercel.app/Portfolio">View Portfolio</a></td>
-    <td>Ask me about <br><strong>React, Next.js, ASP.NET Core</strong></td>
+    <td><a href="https://sofianbelbacha.vercel.app/Portfolio">Browse my portfolio</a></td>
+    <td>Let’s talk about <br><strong>React, Next.js, ASP.NET Core</strong></td>
     <td><a href="mailto:sofianbelbacha@gmail.com">sofianbelbacha@gmail.com</a></td>
-    <td><a href="https://sofianbelbacha.vercel.app/personal/CV_Portfolio_Belbacha.pdf">Download PDF</a></td>
+    <td><a href="https://sofianbelbacha.vercel.app/personal/CV_Portfolio_Belbacha.pdf">View my CV</a></td>
   </tr>
 </table>
 
