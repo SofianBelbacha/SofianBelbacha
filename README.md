@@ -25,13 +25,23 @@
 
 ###
 
-- 👨‍💻 All of my projects are available at [https://sofianbelbacha.vercel.app/Portfolio](https://sofianbelbacha.vercel.app/Portfolio)
+### 👨‍💻 My Work
 
-- 💬 Ask me about **react, Next.Js, ASP.NET Core**
+- All of my projects are available on my [Portfolio](https://sofianbelbacha.vercel.app/Portfolio)
 
-- 📫 How to reach me **sofianbelbacha@gmail.com**
+### 💬 What I Do
 
-- 📄 Know about my experiences [https://sofianbelbacha.vercel.app/personal/CV_Portfolio_Belbacha.pdf](https://sofianbelbacha.vercel.app/personal/CV_Portfolio_Belbacha.pdf)
+- Ask me about **React, Next.js, ASP.NET Core**
+
+### 📫 Contact Me
+
+- Reach me at **sofianbelbacha@gmail.com**
+
+### 📄 My Resume
+
+- View my experiences [here (PDF)](https://sofianbelbacha.vercel.app/personal/CV_Portfolio_Belbacha.pdf)
+
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
