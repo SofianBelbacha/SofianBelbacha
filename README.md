@@ -86,9 +86,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SofianBelbacha&theme=gruvbox" alt="sofianbelbacha" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofianbelbacha&show_icons=true&locale=en&layout=compact&theme=dark" alt="sofianbelbacha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SofianBelbacha&show_icons=true&locale=en&layout=compact&theme=dark" alt="sofianbelbacha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofianbelbacha&show_icons=true&locale=en&theme=dark" alt="sofianbelbacha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SofianBelbacha&show_icons=true&locale=en&theme=dark" alt="sofianbelbacha" /></p>
 
 ###
 
@@ -97,7 +97,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=SofianBelbacha&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=SofianBelbacha&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
