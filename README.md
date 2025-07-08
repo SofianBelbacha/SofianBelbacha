@@ -32,7 +32,7 @@
     <td><a href="https://sofianbelbacha.vercel.app/Portfolio">Browse my portfolio</a></td>
     <td>Let’s talk about <br><strong>React, Next.js, ASP.NET Core</strong></td>
     <td><a href="mailto:sofianbelbacha@gmail.com">sofianbelbacha@gmail.com</a></td>
-    <td><a href="https://sofianbelbacha.vercel.app/personal/CV_Portfolio_Belbacha.pdf">View my CV</a></td>
+    <td><a href="https://sofianbelbacha.vercel.app/personal/CV_SOFIAN_BELBACHA.pdf">View my CV</a></td>
   </tr>
 </table>
 
