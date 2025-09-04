@@ -10,18 +10,19 @@
 ### 🔭 Current Work
 - Working on my [Portfolio App](https://sofianbelbacha.vercel.app)
 
-### 🌱 Learning & Goals
-**Q2 2025 – In Progress**  
-- 🚢 Docker & containerization  
-- 🔁 CI/CD with GitHub Actions  
+### 🌱 Learning & Roadmap 2025
 
-**Q3 2025 – Planned**  
-- ☸️ Kubernetes deployment  
+**E1 2025 – Finished ✅**  
+- 🚢 Découverte de Docker & Conteneurisation  
+- 🔁 Prise en main de CI/CD (GitLab CI)  
+
+**E2 2025 – In progress ⏳**  
+- ☸️ Déploiement avec Kubernetes  
 - 🏗️ Infrastructure as Code (Terraform / Pulumi)  
 
-**Q4 2025 – Planned**  
-- ⚙️ Rust for system backend development  
-- 📊 Observability (Prometheus & Grafana)
+**E3 2025 – In progress 📝**  
+- ⚙️ Azure DevOps (CI/CD & gestion de projets)  
+- 📊 Observabilité (Prometheus, Grafana)  
 
 ---
 
