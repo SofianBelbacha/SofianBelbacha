@@ -25,11 +25,49 @@
 
 ---
 
-### 👨‍💻 Projects & 💬 Tech Stack
+### 👨‍💻 Projects
 
-| Projects | Tech Stack | Contact | Resume |
-|----------|-----------|--------|--------|
-| [Portfolio](https://sofianbelbacha.vercel.app/Portfolio) | React, Next.js, ASP.NET Core | [Email me](mailto:sofianbelbacha@gmail.com) | [View CV](https://sofianbelbacha.vercel.app/personal/CV_SOFIAN_BELBACHA.pdf) |
+<p align="center">
+  <a href="https://sofianbelbacha.vercel.app/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-App-blue?style=for-the-badge&logo=appveyor" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/SofianBelbacha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repos-black?style=for-the-badge&logo=github" alt="GitHub Repos"/>
+  </a>
+</p>
+
+**Highlights:**  
+- 🌐 Responsive Full Stack Web Apps  
+- ⚡ Fast performance & clean UI with Next.js & Tailwind  
+- ⚙️ Backend APIs with ASP.NET Core / PHP  
+
+---
+
+### 💬 Tech Stack
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
+
 
 ---
 
