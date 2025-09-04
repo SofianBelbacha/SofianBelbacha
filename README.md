@@ -12,17 +12,29 @@
 
 ### 🌱 Learning & Roadmap 2025
 
-**E1 2025 – Finished ✅**  
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<div>
+
+**E1 2025 – Terminé ✅**  
 - 🚢 Découverte de Docker & Conteneurisation  
 - 🔁 Prise en main de CI/CD (GitLab CI)  
 
-**E2 2025 – In progress ⏳**  
+**E2 2025 – En cours ⏳**  
 - ☸️ Déploiement avec Kubernetes  
 - 🏗️ Infrastructure as Code (Terraform / Pulumi)  
 
-**E3 2025 – In progress 📝**  
+**E3 2025 – Prévu 📝**  
 - ⚙️ Azure DevOps (CI/CD & gestion de projets)  
 - 📊 Observabilité (Prometheus, Grafana)  
+
+</div>
+
+<div>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Learning animation" width="300"/>
+</div>
+
+</div>
 
 ---
 
