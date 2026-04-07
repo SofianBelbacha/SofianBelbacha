@@ -114,15 +114,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SofianBelbacha&theme=gruvbox" alt="Trophies" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SofianBelbacha&show_icons=true&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SofianBelbacha&show_icons=true&theme=dark" alt="Stats" />
-</p>
-
----
-
 ### 🔥 Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SofianBelbacha&mode=daily&theme=dark&border_radius=5" height="220" alt="Streak graph" />
