@@ -7,6 +7,13 @@
 
 ---
 
+<h2 align="center">🚀 About Me</h2>
+
+Full Stack Developer driven by curiosity and a passion for technology, I build modern, high-performance and secure web applications. I’m expanding my skills in DevOps practices and exploring cybersecurity to better understand and improve the full application lifecycle. My goal is to grow within a team, take on technical challenges, and evolve towards a DevOps role.
+
+<br>
+
+
 ### 🔭 Current Work
 - Working on my [Portfolio App](https://sofianbelbacha.vercel.app)
 
