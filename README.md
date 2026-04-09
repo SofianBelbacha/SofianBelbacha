@@ -1,11 +1,38 @@
-<h1 align="center">Hi 👋, I'm Sofian Belbacha</h1>
-<h3 align="center">A passionate Full Stack Developer & DevOps enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
+<div align="center">
+  <a href="https://sofianbelbacha.vercel.app/">
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Sofian%20Belbacha&description=I%20build%20modern,%20high-performance%20applications%20and%20continuously%20explore%20DevOps%20and%20cybersecurity%20to%20master%20the%20full%20lifecycle%20of%20software%20%E2%80%94%20from%20code%20to%20production.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D1eF2R_UkFoPWBsHsVar66i4OmASoX5O5L&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=knightgamer87&linkedin=sofian-belbacha&github=SofianBelbacha&site=https://sofianbelbacha.vercel.app/" alt="Sofian Belbacha's Card" />
+
+
+  </a>
+</div>
+
+<br>
+
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/SofianBelbacha/SofianBelbacha/icons/wave.gif" width="48"></a> , I'm Sofian Belbacha</h1>
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sofianbelbacha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  Full-stack Web Developer | future DevOps engineer | Tech Enthusiast
 </p>
 
----
+<div align="center">
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <p>Discover my work and connect on these platforms!</p>
+
+ | Sofian Belbacha | Linkedin | GitHub | Email | Portfolio |
+| --- | --- | --- | --- | --- |
+| [![Sofian Belbacha](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Sofian+Belbacha&size=square)](https://sofianbelbacha.vercel.app/personal/CV_SOFIAN_BELBACHA.pdf) | [![Sofian Belbacha](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsofian-belbacha&subtitle=sofian-belbacha&size=square)](https://www.linkedin.com/in/sofian-belbacha/) | [![Sofian Belbacha](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FSofianBelbacha&subtitle=SofianBelbacha&size=square)](https://github.com/2FSofianBelbacha) | [![Sofian Belbacha](https://bentos.jkominovic.dev/api/v1/bento-cards?url=sofianbelbacha@gmail.com&size=square)](mailto:sofianbelbacha@gmail.com) | [![Sofian Belbacha](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sinextdotjs&subtitle=https%3A%2F%2Fsofianbelbacha.vercel.app&size=square)](https://sofianbelbacha.vercel.app) |
+
+<br>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SofianBelbacha&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
+
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -13,122 +40,269 @@ Full Stack Developer driven by curiosity and a passion for technology, I build m
 
 <br>
 
+## 🎯 Why DevOps & Cloud Matter
 
-### 🔭 Current Work
-- Working on my [Portfolio App](https://sofianbelbacha.vercel.app)
+In today’s modern development landscape, building an application is only part of the journey — running, scaling, and maintaining it efficiently is just as critical.
 
-### 🌱 Learning & Roadmap 2025
+As a Full Stack Developer evolving into DevOps, I focus on creating solutions that are:
 
-**E1 2025 – Terminé ✅**  
-- 🚢 Découverte de Docker & Conteneurisation  
-- 🔁 Prise en main de CI/CD (GitLab CI)  
+✅ **Scalable by Design** – Build applications ready to grow and handle real-world usage  
+✅ **Automation-Driven** – Streamline workflows with CI/CD and reduce manual processes  
+✅ **Reliable & Resilient** – Ensure stability through containerization and infrastructure best practices  
+✅ **Performance-Oriented** – Deliver fast and optimized user experiences  
+✅ **Security-Aware** – Apply best practices to protect applications and sensitive data  
 
-**E2 2025 – En cours ⏳**  
-- ☸️ Déploiement avec Kubernetes  
-- 🏗️ Infrastructure as Code (Terraform / Pulumi)  
+> _“From code to production — building, deploying, and improving continuously.”_ 🚀
 
-**E3 2025 – Prévu 📝**  
-- ⚙️ Azure DevOps (CI/CD & gestion de projets)  
-- 📊 Observabilité (Prometheus, Grafana)  
+## 📈 Learning & Roadmap
 
----
+To strengthen my skills and move towards a DevOps-oriented role, I’m currently focusing on:
 
-### 👨‍💻 Projects
-
-<p align="center">
-  <a href="https://sofianbelbacha.vercel.app/Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-App-blue?style=for-the-badge&logo=appveyor" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/SofianBelbacha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Repos-black?style=for-the-badge&logo=github" alt="GitHub Repos"/>
-  </a>
-</p>
-
-**Highlights:**  
-- 🌐 Responsive Full Stack Web Apps  
-- ⚡ Fast performance & clean UI with Next.js & Tailwind  
-- ⚙️ Backend APIs with ASP.NET Core / PHP  
+| **Focus Area** | **What I'm Learning** |
+|:---|:---|
+| **Containerization** | Docker, image optimization, multi-container environments |
+| **CI/CD** | GitLab CI, pipeline automation, deployment workflows |
+| **Orchestration** | Kubernetes basics, deployment strategies |
+| **Infrastructure as Code** | Terraform / Pulumi fundamentals |
+| **Monitoring & Observability** | Prometheus, Grafana |
+| **Cloud Platforms** | AWS & cloud fundamentals |
 
 ---
 
-### 💬 Tech Stack
+✅ **Objective:**  
+**To become a DevOps-oriented Full Stack Developer**, capable of building, deploying, and maintaining scalable and reliable applications.
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-</p>
+</details>
 
 
----
+<br>
 
-### 🤝 Connect with Me
-<p align="center">
-  <a href="mailto:sofianbelbacha@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/sofianbelbacha"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" alt="LinkedIn" /></a>
-</p>
+<h3 align="center">Git Stats</h3>
 
----
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=SofianBelbacha&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+<br>
 
-### 🛠️ Languages & Tools
-<p align="center">
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+### GitHub Contribution Chart
 
-  <!-- Backend -->
-  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-
-  <!-- Databases -->
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-
----
-
-### 🔥 Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SofianBelbacha&mode=daily&theme=dark&border_radius=5" height="220" alt="Streak graph" />
-</p>
-
----
-
-### 🎮 Fun Section
 <p align="center">
   <img src="https://github.com/sofianbelbacha/SofianBelbacha/blob/output/snake.svg" alt="Snake animation" />
 </p>
+
+<br>
+
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+
+<h3 align="center">Web Development</h3>
+
+<div align="center">
+
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="8" align="center" style="color: white;">Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://nextjs.org/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+        </a>
+        <br>Next.js
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://tailwindcss.com/" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
+        </a>
+        <br>Tailwind CSS
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://reactjs.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
+        </a>
+        <br>React
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.typescriptlang.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://angular.dev" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="50" height="50"/>
+        </a>
+        <br>Angular
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
+        </a>
+        <br>CSS
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP"/><br>PHP
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=symfony" width="50" height="50" alt="Symfony"/><br>Symfony
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt="dotnet"/><br>dotnet
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#"/><br>C#
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=sqlserver" alt="SQL Server" width="50" height="50"/><br>SQL Server
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center">Cloud Computing & DevOps</h3>
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=gitlab" alt="Gitlab" width="50" height="50"/><br>Gitlab
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" width="50" height="50"/><br>Prometheus
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/><br>Git
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="2" align="center" style="color: white;">Infrastructure as Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>Terraform
+      </td>
+        <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=ansible" alt="Terraform" width="50" height="50"/><br>Ansible
+       </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="4" align="center" style="color: white;">Cloud Providers</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none; padding: 12px;">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h2 align="center">📫 Let's Connect!</h2>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Email</th>
+      <th>WhatsApp</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="mailto:sofianbelbacha@gmail.com" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" style="width: 80px; margin: 10px;">
+          <br>
+          sofianbelbacha@gmail.com
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://wa.me/0753441807" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" alt="WhatsApp France" style="width: 80px; margin: 10px;">
+          <br>
+          +33 7 53 44 18 07
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<h3>
+<div align="center">
+  
+⭐️ From [SofianBelbacha](https://github.com/SofianBelbacha) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+
+
+</div>
+</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
