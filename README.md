@@ -10,7 +10,7 @@
 
 <br>
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/SofianBelbacha/SofianBelbacha/icons/wave.gif" width="48"></a> , I'm Sofian Belbacha</h1>
+<h1 align="center">Hello &nbsp;<img src="https://github.com/SofianBelbacha/SofianBelbacha/blob/main/icons/wave.gif" width="48">, I'm Sofian Belbacha</h1>
 
 
 <p align="center">
