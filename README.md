@@ -155,7 +155,7 @@ To strengthen my skills and move towards a DevOps-oriented role, I’m currently
 </div>
 
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div align="center" class="flex-container" style="display: flex; justify-content: center; gap: 10px;">
 
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -181,7 +181,7 @@ To strengthen my skills and move towards a DevOps-oriented role, I’m currently
   </tbody>
 </table>
 
-<table calss="flex-container" style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="4" align="center" style="color: white;">Database</th>
