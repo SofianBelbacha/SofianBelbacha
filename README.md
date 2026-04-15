@@ -196,7 +196,7 @@ To strengthen my skills and move towards a DevOps-oriented role, I’m currently
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=sqlserver" alt="SQL Server" width="50" height="50"/><br>SQL Server
+        [<img src="https://skillicons.dev/icons?i=sqlserver" alt="SQL Server" width="50" height="50"/>](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg)<br>SQL Server
       </td>
     </tr>
   </tbody>
