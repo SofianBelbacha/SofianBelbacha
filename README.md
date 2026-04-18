@@ -6,9 +6,7 @@
 
   </a>
 </div>
-
 <br>
-
 <h1 align="center">Hello&nbsp;<img src="https://github.com/SofianBelbacha/SofianBelbacha/blob/main/icons/wave.gif" width="48">, I'm Sofian Belbacha</h1>
 <p align="center">
   Full-stack Web Developer | future DevOps engineer | Tech Enthusiast
