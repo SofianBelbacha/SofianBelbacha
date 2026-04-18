@@ -4,15 +4,12 @@
   <a href="https://sofianbelbacha.vercel.app/">
     <img width="100%" src="https://cardivo.vercel.app/api?name=Sofian%20Belbacha&description=I%20build%20modern,%20high-performance%20applications%20and%20continuously%20explore%20DevOps%20and%20cybersecurity%20to%20master%20the%20full%20lifecycle%20of%20software%20%E2%80%94%20from%20code%20to%20production.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D1eF2R_UkFoPWBsHsVar66i4OmASoX5O5L&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=knightgamer87&linkedin=sofian-belbacha&github=SofianBelbacha&site=https://sofianbelbacha.vercel.app/" alt="Sofian Belbacha's Card" />
 
-
   </a>
 </div>
 
 <br>
 
 <h1 align="center">Hello&nbsp;<img src="https://github.com/SofianBelbacha/SofianBelbacha/blob/main/icons/wave.gif" width="48">, I'm Sofian Belbacha</h1>
-
-
 <p align="center">
   Full-stack Web Developer | future DevOps engineer | Tech Enthusiast
 </p>
