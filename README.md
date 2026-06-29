@@ -9,7 +9,7 @@
 <br>
 <h1 align="center">Hello&nbsp;<img src="https://github.com/SofianBelbacha/SofianBelbacha/blob/main/icons/wave.gif" width="48">, I'm Sofian Belbacha</h1>
 <p align="center">
-  Full-stack Web Developer | future DevOps engineer | Tech Enthusiast
+  Full-stack Web Developer | Tech Enthusiast
 </p>
 
 <div align="center">
@@ -31,7 +31,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-Full Stack Developer driven by curiosity and a passion for technology, I build modern, high-performance and secure web applications. I’m expanding my skills in DevOps practices and exploring cybersecurity to better understand and improve the full application lifecycle. My goal is to grow within a team, take on technical challenges, and evolve towards a DevOps role.
+Full Stack Developer driven by curiosity and a passion for technology, I build modern, high-performance and secure web applications. I’m expanding my skills in DevOps practices and exploring cybersecurity to better understand and improve the full application lifecycle. My goal is to grow within a team, take on technical challenges.
 
 <br>
 
